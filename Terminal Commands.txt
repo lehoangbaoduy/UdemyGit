@@ -1,0 +1,10 @@
+ls: list all things  at the directory
+ls -a: list all things include hidden files (.git)
+start .: open folder explorer
+ls <foldername>: list all things in specific folder
+pwd (print working directory): print out where actually you are 
+cd (change directory): 
+touch <filename.extension>: create new file at current directory
+mkdi (make dir): create new folder at current directory
+rm <filename.extension>: delete file at current directory
+rm -rf <foldername>: delete folder at current directory
